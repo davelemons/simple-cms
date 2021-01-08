@@ -132,7 +132,7 @@ Resources:
                 - HEAD
                 - OPTIONS
                 Compress: true
-                DefaultTTL: 60
+                DefaultTTL: 3600
                 ForwardedValues: 
                     Cookies: 
                         Forward: "none"
